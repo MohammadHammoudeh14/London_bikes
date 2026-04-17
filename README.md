@@ -30,7 +30,7 @@ The raw data was processed using a Python notebook in Google Colab to ensure acc
 * `London_Bikes.ipynb`: The Google Colab notebook containing all Python code for data cleaning.
 * `Screen Shot 2026-04-17 at 10.43.12 PM.png`: The dashboard screenshot image.
 * `London_bikes_raw`: Raw dataset brfore cleaning and processing.
-* `London_bikes_final`: Ready yo analyzing dataset. 
+* `London_bikes_final`: Ready to analyzing dataset. 
 
 ## Next Steps
 * **Predictive Modeling:** Develop a Machine Learning regression model to predict future bike rental demand based on weather forecasts.
